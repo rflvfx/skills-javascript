@@ -6,3 +6,4 @@
 - 2015-07-02: Polish docs
 - 2015-06-27: Polish docs
 - 2015-07-08: Clarify section
+- 2015-02-03: Add detail
