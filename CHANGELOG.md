@@ -55,3 +55,4 @@
 - 2015-01-17: Add detail
 - 2015-04-23: Small fix
 - 2015-10-08: Improve docs
+- 2015-02-09: Small fix
