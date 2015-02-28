@@ -32,3 +32,4 @@
 - 2020-12-02: Update documentation
 - 2015-10-03: Update guide
 - 2015-05-03: Adjust content
+- 2015-02-28: Small fix
