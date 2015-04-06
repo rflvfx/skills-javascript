@@ -60,3 +60,4 @@
 - 2015-07-20: Minor update
 - 2015-02-16: Add note
 - 2015-02-09: Polish docs
+- 2015-04-06: Add remark
