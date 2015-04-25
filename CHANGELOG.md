@@ -65,3 +65,4 @@
 - 2015-05-03: Review content
 - 2015-11-17: Review content
 - 2015-07-18: Update guide
+- 2015-04-25: Add note
