@@ -10,3 +10,4 @@
 - 2015-02-21: Typo fix
 - 2015-12-08: Small fix
 - 2015-11-11: Add remark
+- 2015-05-26: Fix example
