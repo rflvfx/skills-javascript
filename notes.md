@@ -12,3 +12,4 @@
 - 2015-11-11: Add remark
 - 2015-05-26: Fix example
 - 2015-10-11: Minor update
+- 2015-06-22: Minor update
