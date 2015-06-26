@@ -37,3 +37,4 @@
 - 2015-09-08: Update guide
 - 2015-12-27: Minor update
 - 2015-02-01: Improve docs
+- 2015-06-26: Update guide
