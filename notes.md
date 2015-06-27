@@ -4,3 +4,4 @@
 - 2015-10-05: Minor update
 - 2015-12-11: Typo fix
 - 2015-07-02: Polish docs
+- 2015-06-27: Polish docs
