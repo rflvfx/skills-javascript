@@ -43,3 +43,4 @@
 - 2015-09-04: Clarify section
 - 2015-11-13: Refine text
 - 2015-03-09: Update guide
+- 2015-07-13: Small fix
