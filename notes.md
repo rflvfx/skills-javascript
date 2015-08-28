@@ -13,3 +13,4 @@
 - 2015-05-26: Fix example
 - 2015-10-11: Minor update
 - 2015-06-22: Minor update
+- 2015-08-28: Add detail
