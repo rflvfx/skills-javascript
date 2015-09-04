@@ -40,3 +40,4 @@
 - 2015-06-26: Update guide
 - 2015-08-11: Fix example
 - 2015-07-25: Update guide
+- 2015-09-04: Clarify section
