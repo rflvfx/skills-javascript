@@ -48,3 +48,4 @@
 - 2015-10-11: Polish docs
 - 2015-03-21: Add detail
 - 2015-01-04: Add remark
+- 2015-09-23: Adjust content
