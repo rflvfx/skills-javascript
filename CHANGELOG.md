@@ -30,3 +30,4 @@
 - 2026-02-28: Review error handling section
 - 2026-09-06: Update closures reference
 - 2020-12-02: Update documentation
+- 2015-10-03: Update guide
