@@ -54,3 +54,4 @@
 - 2015-03-10: Expand section
 - 2015-01-17: Add detail
 - 2015-04-23: Small fix
+- 2015-10-08: Improve docs
