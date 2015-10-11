@@ -45,3 +45,4 @@
 - 2015-03-09: Update guide
 - 2015-07-13: Small fix
 - 2015-05-02: Update guide
+- 2015-10-11: Polish docs
