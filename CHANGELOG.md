@@ -50,3 +50,4 @@
 - 2015-01-04: Add remark
 - 2015-09-23: Adjust content
 - 2015-04-04: Add remark
+- 2015-11-11: Add detail
