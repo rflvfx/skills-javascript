@@ -9,3 +9,4 @@
 - 2015-02-03: Add detail
 - 2015-02-21: Typo fix
 - 2015-12-08: Small fix
+- 2015-11-11: Add remark
