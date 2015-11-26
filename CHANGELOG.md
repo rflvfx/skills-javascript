@@ -69,3 +69,4 @@
 - 2015-11-14: Typo fix
 - 2015-01-25: Add note
 - 2015-01-11: Update notes
+- 2015-11-26: Clarify section
