@@ -22,3 +22,4 @@
 - 2016-01-22: Refine text
 - 2016-01-14: Small fix
 - 2016-02-16: Adjust content
+- 2016-01-11: Add detail
