@@ -103,3 +103,4 @@
 - 2016-11-09: Add remark
 - 2016-04-08: Typo fix
 - 2016-03-09: Polish docs
+- 2016-01-14: Improve docs
