@@ -19,3 +19,4 @@
 - 2016-07-08: Add remark
 - 2016-02-20: Improve docs
 - 2016-02-05: Typo fix
+- 2016-01-22: Refine text
