@@ -76,3 +76,4 @@
 - 2016-04-07: Small fix
 - 2016-02-12: Typo fix
 - 2016-07-11: Add detail
+- 2016-01-23: Update notes
