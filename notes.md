@@ -21,3 +21,4 @@
 - 2016-02-05: Typo fix
 - 2016-01-22: Refine text
 - 2016-01-14: Small fix
+- 2016-02-16: Adjust content
