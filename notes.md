@@ -17,3 +17,4 @@
 - 2016-08-21: Update notes
 - 2016-04-02: Refine text
 - 2016-07-08: Add remark
+- 2016-02-20: Improve docs
