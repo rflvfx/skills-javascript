@@ -81,3 +81,4 @@
 - 2016-10-28: Update guide
 - 2016-06-07: Typo fix
 - 2016-06-05: Update guide
+- 2016-03-04: Minor update
