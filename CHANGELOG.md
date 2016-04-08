@@ -101,3 +101,4 @@
 - 2016-08-13: Expand section
 - 2016-11-12: Refine text
 - 2016-11-09: Add remark
+- 2016-04-08: Typo fix
