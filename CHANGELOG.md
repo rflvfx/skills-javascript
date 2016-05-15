@@ -94,3 +94,4 @@
 - 2016-09-23: Add detail
 - 2016-09-02: Add note
 - 2016-10-24: Review content
+- 2016-05-15: Typo fix
