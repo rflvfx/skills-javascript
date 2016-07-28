@@ -24,3 +24,4 @@
 - 2016-02-16: Adjust content
 - 2016-01-11: Add detail
 - 2016-01-13: Fix example
+- 2016-07-28: Expand section
