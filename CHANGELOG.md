@@ -98,3 +98,4 @@
 - 2016-06-08: Fix example
 - 2016-09-12: Review content
 - 2016-12-05: Typo fix
+- 2016-08-13: Expand section
