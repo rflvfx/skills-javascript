@@ -92,3 +92,4 @@
 - 2016-05-15: Update notes
 - 2016-07-16: Update guide
 - 2016-09-23: Add detail
+- 2016-09-02: Add note
