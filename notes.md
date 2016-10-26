@@ -27,3 +27,4 @@
 - 2016-07-28: Expand section
 - 2016-10-17: Adjust content
 - 2016-11-07: Small fix
+- 2016-10-26: Fix example
