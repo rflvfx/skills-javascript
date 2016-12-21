@@ -106,3 +106,4 @@
 - 2016-01-14: Improve docs
 - 2016-05-04: Minor update
 - 2016-05-13: Clarify section
+- 2016-12-21: Refine text
