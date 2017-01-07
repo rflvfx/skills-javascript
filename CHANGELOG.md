@@ -111,3 +111,4 @@
 - 2016-02-16: Improve docs
 - 2017-09-22: Small fix
 - 2017-07-09: Expand section
+- 2017-01-07: Refine text
