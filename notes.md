@@ -31,3 +31,4 @@
 - 2016-03-22: Improve docs
 - 2017-12-21: Fix example
 - 2017-12-10: Polish docs
+- 2017-02-13: Add note
