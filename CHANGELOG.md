@@ -132,3 +132,4 @@
 - 2017-04-25: Update guide
 - 2017-03-11: Review content
 - 2017-07-03: Minor update
+- 2017-02-16: Add detail
