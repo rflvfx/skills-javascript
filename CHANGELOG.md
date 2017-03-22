@@ -147,3 +147,4 @@
 - 2017-09-19: Expand section
 - 2017-02-03: Add detail
 - 2017-03-09: Clarify section
+- 2017-03-22: Review content
