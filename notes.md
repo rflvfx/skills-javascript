@@ -32,3 +32,4 @@
 - 2017-12-21: Fix example
 - 2017-12-10: Polish docs
 - 2017-02-13: Add note
+- 2017-03-23: Refine text
