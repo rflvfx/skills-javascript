@@ -150,3 +150,4 @@
 - 2017-03-22: Review content
 - 2017-09-09: Fix example
 - 2017-09-23: Add remark
+- 2017-04-22: Improve docs
