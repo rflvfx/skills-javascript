@@ -7,3 +7,4 @@
 - 2016-03-11: Expand proxy traps docs
 - 2016-06-16: Add destructuring notes
 - 2016-08-21: Add spread patterns examples
+- 2017-07-03: Review memoization section
