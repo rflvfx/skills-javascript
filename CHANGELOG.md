@@ -131,3 +131,4 @@
 - 2017-03-10: Adjust content
 - 2017-04-25: Update guide
 - 2017-03-11: Review content
+- 2017-07-03: Minor update
