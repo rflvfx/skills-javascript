@@ -126,3 +126,4 @@
 - 2017-05-01: Review content
 - 2017-06-20: Expand section
 - 2017-10-18: Typo fix
+- 2017-08-12: Minor update
