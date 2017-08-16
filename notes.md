@@ -38,3 +38,4 @@
 - 2017-04-27: Expand section
 - 2017-03-20: Minor update
 - 2017-11-19: Fix example
+- 2017-08-16: Small fix
