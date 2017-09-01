@@ -143,3 +143,4 @@
 - 2017-10-01: Typo fix
 - 2017-08-08: Add remark
 - 2017-04-05: Improve docs
+- 2017-09-01: Add note
