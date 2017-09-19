@@ -144,3 +144,4 @@
 - 2017-08-08: Add remark
 - 2017-04-05: Improve docs
 - 2017-09-01: Add note
+- 2017-09-19: Expand section
