@@ -109,3 +109,4 @@
 - 2016-12-21: Refine text
 - 2016-11-15: Clarify section
 - 2016-02-16: Improve docs
+- 2017-09-22: Small fix
