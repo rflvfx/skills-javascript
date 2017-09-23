@@ -149,3 +149,4 @@
 - 2017-03-09: Clarify section
 - 2017-03-22: Review content
 - 2017-09-09: Fix example
+- 2017-09-23: Add remark
