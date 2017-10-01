@@ -140,3 +140,4 @@
 - 2017-02-25: Fix example
 - 2017-09-27: Update notes
 - 2017-12-24: Update notes
+- 2017-10-01: Typo fix
