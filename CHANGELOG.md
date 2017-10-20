@@ -115,3 +115,4 @@
 - 2017-06-03: Polish docs
 - 2017-11-04: Improve docs
 - 2017-10-09: Improve docs
+- 2017-10-20: Fix example
