@@ -1,1 +1,2 @@
 - 2016-03-04 — Improve documentation
+- 2017-10-25 — Improve documentation
