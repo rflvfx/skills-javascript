@@ -113,3 +113,4 @@
 - 2017-07-09: Expand section
 - 2017-01-07: Refine text
 - 2017-06-03: Polish docs
+- 2017-11-04: Improve docs
