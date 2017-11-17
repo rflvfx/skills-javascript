@@ -119,3 +119,4 @@
 - 2017-12-06: Add note
 - 2017-02-06: Small fix
 - 2017-09-23: Add remark
+- 2017-11-17: Review content
