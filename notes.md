@@ -37,3 +37,4 @@
 - 2017-05-02: Typo fix
 - 2017-04-27: Expand section
 - 2017-03-20: Minor update
+- 2017-11-19: Fix example
