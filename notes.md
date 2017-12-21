@@ -29,3 +29,4 @@
 - 2016-11-07: Small fix
 - 2016-10-26: Fix example
 - 2016-03-22: Improve docs
+- 2017-12-21: Fix example
