@@ -172,3 +172,4 @@
 - 2018-01-20: Add remark
 - 2018-09-14: Review content
 - 2018-04-09: Adjust content
+- 2018-01-11: Minor update
