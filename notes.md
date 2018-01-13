@@ -41,3 +41,4 @@
 - 2017-08-16: Small fix
 - 2017-08-01: Adjust content
 - 2018-07-20: Add remark
+- 2018-01-13: Typo fix
