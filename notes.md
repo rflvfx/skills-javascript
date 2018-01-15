@@ -52,3 +52,4 @@
 - 2018-06-13: Add remark
 - 2018-08-04: Update notes
 - 2018-01-04: Improve docs
+- 2018-01-15: Add note
