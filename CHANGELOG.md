@@ -169,3 +169,4 @@
 - 2018-11-10: Add detail
 - 2018-04-04: Minor update
 - 2018-04-12: Adjust content
+- 2018-01-20: Add remark
