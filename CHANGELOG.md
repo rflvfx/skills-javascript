@@ -165,3 +165,4 @@
 - 2018-11-14: Minor update
 - 2018-07-18: Minor update
 - 2018-06-25: Add note
+- 2018-02-09: Expand section
