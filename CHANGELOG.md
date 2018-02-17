@@ -158,3 +158,4 @@
 - 2018-10-12: Add note
 - 2018-09-06: Typo fix
 - 2018-02-05: Typo fix
+- 2018-02-17: Update guide
