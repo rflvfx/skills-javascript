@@ -161,3 +161,4 @@
 - 2018-02-17: Update guide
 - 2018-12-10: Review content
 - 2018-09-21: Add remark
+- 2018-02-20: Refine text
