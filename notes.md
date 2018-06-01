@@ -43,3 +43,4 @@
 - 2018-07-20: Add remark
 - 2018-01-13: Typo fix
 - 2018-07-14: Add note
+- 2018-06-01: Update notes
