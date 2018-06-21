@@ -10,3 +10,4 @@
 - 2017-07-03: Review memoization section
 - 2017-07-17: Improve weakmap usage coverage
 - 2018-04-27: Improve error handling coverage
+- 2018-06-21: Add typed arrays examples
