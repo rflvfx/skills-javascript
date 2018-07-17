@@ -54,3 +54,4 @@
 - 2018-01-04: Improve docs
 - 2018-01-15: Add note
 - 2018-08-17: Refine text
+- 2018-07-17: Adjust content
