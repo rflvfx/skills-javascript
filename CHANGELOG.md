@@ -192,3 +192,4 @@
 - 2018-11-16: Fix example
 - 2018-08-13: Adjust content
 - 2018-05-27: Review content
+- 2018-08-17: Add detail
