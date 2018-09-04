@@ -153,3 +153,4 @@
 - 2017-04-22: Improve docs
 - 2017-01-17: Typo fix
 - 2017-09-20: Update notes
+- 2018-09-04: Typo fix
