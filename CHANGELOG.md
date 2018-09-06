@@ -156,3 +156,4 @@
 - 2018-09-04: Typo fix
 - 2018-01-16: Improve docs
 - 2018-10-12: Add note
+- 2018-09-06: Typo fix
