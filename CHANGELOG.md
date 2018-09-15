@@ -179,3 +179,4 @@
 - 2018-11-01: Review content
 - 2018-12-09: Add note
 - 2018-09-20: Add note
+- 2018-09-15: Add note
