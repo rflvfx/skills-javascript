@@ -47,3 +47,4 @@
 - 2018-08-07: Refine text
 - 2018-05-22: Update notes
 - 2018-10-20: Fix example
+- 2018-10-16: Update notes
