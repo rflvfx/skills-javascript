@@ -186,3 +186,4 @@
 - 2018-02-22: Add note
 - 2018-10-16: Minor update
 - 2018-12-24: Update notes
+- 2018-10-27: Refine text
