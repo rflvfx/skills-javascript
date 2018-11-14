@@ -162,3 +162,4 @@
 - 2018-12-10: Review content
 - 2018-09-21: Add remark
 - 2018-02-20: Refine text
+- 2018-11-14: Minor update
