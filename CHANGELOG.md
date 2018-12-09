@@ -177,3 +177,4 @@
 - 2018-06-09: Update notes
 - 2018-07-27: Refine text
 - 2018-11-01: Review content
+- 2018-12-09: Add note
