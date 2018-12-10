@@ -159,3 +159,4 @@
 - 2018-09-06: Typo fix
 - 2018-02-05: Typo fix
 - 2018-02-17: Update guide
+- 2018-12-10: Review content
