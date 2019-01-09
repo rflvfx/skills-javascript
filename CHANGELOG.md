@@ -218,3 +218,4 @@
 - 2019-06-11: Expand section
 - 2019-10-07: Improve docs
 - 2019-03-11: Typo fix
+- 2019-01-09: Review content
