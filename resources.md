@@ -1,1 +1,2 @@
 - 2016-04-12: Add resource link (skills-javascript)
+- 2019-01-27: Review and cleanup (skills-javascript)
