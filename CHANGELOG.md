@@ -199,3 +199,4 @@
 - 2019-11-11: Review content
 - 2019-01-21: Update guide
 - 2019-02-07: Expand section
+- 2019-02-01: Typo fix
