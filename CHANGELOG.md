@@ -224,3 +224,4 @@
 - 2019-04-10: Add remark
 - 2019-12-14: Adjust content
 - 2019-05-07: Refine text
+- 2019-02-03: Polish docs
