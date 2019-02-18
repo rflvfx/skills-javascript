@@ -226,3 +226,4 @@
 - 2019-05-07: Refine text
 - 2019-02-03: Polish docs
 - 2019-01-23: Adjust content
+- 2019-02-18: Adjust content
