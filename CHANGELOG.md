@@ -194,3 +194,4 @@
 - 2018-05-27: Review content
 - 2018-08-17: Add detail
 - 2019-09-07: Update guide
+- 2019-03-02: Expand section
