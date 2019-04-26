@@ -207,3 +207,4 @@
 - 2019-01-26: Clarify section
 - 2019-08-15: Minor update
 - 2019-03-10: Clarify section
+- 2019-04-26: Polish docs
