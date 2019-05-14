@@ -230,3 +230,4 @@
 - 2019-09-18: Expand section
 - 2019-03-08: Improve docs
 - 2019-05-15: Review content
+- 2019-05-14: Small fix
