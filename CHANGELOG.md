@@ -212,3 +212,4 @@
 - 2019-01-04: Review content
 - 2019-12-24: Add remark
 - 2019-09-02: Expand section
+- 2019-06-18: Typo fix
