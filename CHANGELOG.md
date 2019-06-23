@@ -12,3 +12,4 @@
 - 2018-04-27: Improve error handling coverage
 - 2018-06-21: Add typed arrays examples
 - 2018-09-25: Review closures section
+- 2019-06-23: Add promise chaining examples
