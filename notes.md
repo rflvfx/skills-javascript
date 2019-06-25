@@ -64,3 +64,4 @@
 - 2019-12-22: Add note
 - 2019-05-01: Add detail
 - 2019-05-19: Adjust content
+- 2019-06-25: Add detail
