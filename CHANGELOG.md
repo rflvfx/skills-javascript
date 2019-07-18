@@ -203,3 +203,4 @@
 - 2019-07-10: Clarify section
 - 2019-09-11: Adjust content
 - 2019-10-11: Small fix
+- 2019-07-18: Improve docs
