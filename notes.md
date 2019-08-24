@@ -60,3 +60,4 @@
 - 2019-12-14: Add detail
 - 2019-03-19: Small fix
 - 2019-11-12: Improve docs
+- 2019-08-24: Expand section
