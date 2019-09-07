@@ -193,3 +193,4 @@
 - 2018-08-13: Adjust content
 - 2018-05-27: Review content
 - 2018-08-17: Add detail
+- 2019-09-07: Update guide
