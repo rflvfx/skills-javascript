@@ -196,3 +196,4 @@
 - 2019-09-07: Update guide
 - 2019-03-02: Expand section
 - 2019-06-02: Typo fix
+- 2019-11-11: Review content
