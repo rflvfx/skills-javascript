@@ -57,3 +57,4 @@
 - 2018-07-17: Adjust content
 - 2019-10-06: Clarify section
 - 2019-10-01: Update guide
+- 2019-12-14: Add detail
