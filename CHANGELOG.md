@@ -210,3 +210,4 @@
 - 2019-04-26: Polish docs
 - 2019-11-19: Small fix
 - 2019-01-04: Review content
+- 2019-12-24: Add remark
