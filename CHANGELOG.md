@@ -270,3 +270,4 @@
 - 2020-09-02: Polish docs
 - 2020-02-21: Update notes
 - 2020-11-20: Add remark
+- 2020-01-21: Fix example
