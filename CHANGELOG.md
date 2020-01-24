@@ -233,3 +233,4 @@
 - 2019-05-14: Small fix
 - 2019-02-12: Add detail
 - 2020-03-18: Improve docs
+- 2020-01-24: Polish docs
