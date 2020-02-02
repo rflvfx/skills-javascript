@@ -254,3 +254,4 @@
 - 2020-05-10: Add remark
 - 2020-04-13: Polish docs
 - 2020-08-17: Expand section
+- 2020-02-02: Add note
