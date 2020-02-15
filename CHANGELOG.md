@@ -247,3 +247,4 @@
 - 2020-06-12: Expand section
 - 2020-08-08: Refine text
 - 2020-08-18: Expand section
+- 2020-02-15: Update notes
