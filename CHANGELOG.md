@@ -237,3 +237,4 @@
 - 2020-08-19: Minor update
 - 2020-03-16: Add detail
 - 2020-04-25: Typo fix
+- 2020-02-15: Update guide
