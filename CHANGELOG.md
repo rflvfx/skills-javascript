@@ -268,3 +268,4 @@
 - 2020-04-24: Typo fix
 - 2020-09-21: Minor update
 - 2020-09-02: Polish docs
+- 2020-02-21: Update notes
