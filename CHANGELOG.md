@@ -235,3 +235,4 @@
 - 2020-03-18: Improve docs
 - 2020-01-24: Polish docs
 - 2020-08-19: Minor update
+- 2020-03-16: Add detail
