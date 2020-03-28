@@ -260,3 +260,4 @@
 - 2020-07-02: Update guide
 - 2020-01-11: Small fix
 - 2020-07-27: Adjust content
+- 2020-03-28: Polish docs
