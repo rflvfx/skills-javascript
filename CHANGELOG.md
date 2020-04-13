@@ -252,3 +252,4 @@
 - 2020-09-16: Add remark
 - 2020-11-17: Refine text
 - 2020-05-10: Add remark
+- 2020-04-13: Polish docs
