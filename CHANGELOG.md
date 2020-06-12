@@ -244,3 +244,4 @@
 - 2020-01-18: Typo fix
 - 2020-09-02: Expand section
 - 2020-04-06: Fix example
+- 2020-06-12: Expand section
