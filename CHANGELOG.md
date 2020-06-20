@@ -239,3 +239,4 @@
 - 2020-04-25: Typo fix
 - 2020-02-15: Update guide
 - 2020-07-22: Clarify section
+- 2020-06-20: Small fix
