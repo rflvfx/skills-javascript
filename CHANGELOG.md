@@ -245,3 +245,4 @@
 - 2020-09-02: Expand section
 - 2020-04-06: Fix example
 - 2020-06-12: Expand section
+- 2020-08-08: Refine text
