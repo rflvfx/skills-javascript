@@ -76,3 +76,4 @@
 - 2020-10-26: Minor update
 - 2020-01-13: Update notes
 - 2020-08-27: Add note
+- 2020-08-15: Typo fix
