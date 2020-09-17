@@ -68,3 +68,4 @@
 - 2019-08-11: Update notes
 - 2019-06-04: Update notes
 - 2019-09-24: Review content
+- 2020-09-17: Refine text
