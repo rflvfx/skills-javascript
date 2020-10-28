@@ -71,3 +71,4 @@
 - 2020-09-17: Refine text
 - 2020-12-14: Add note
 - 2020-08-16: Refine text
+- 2020-10-28: Expand section
