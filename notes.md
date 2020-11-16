@@ -77,3 +77,4 @@
 - 2020-01-13: Update notes
 - 2020-08-27: Add note
 - 2020-08-15: Typo fix
+- 2020-11-16: Polish docs
