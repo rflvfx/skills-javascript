@@ -78,3 +78,4 @@
 - 2020-08-27: Add note
 - 2020-08-15: Typo fix
 - 2020-11-16: Polish docs
+- 2020-11-26: Typo fix
