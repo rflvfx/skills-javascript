@@ -29,3 +29,4 @@
 - 2026-02-24: Add module patterns examples
 - 2026-02-28: Review error handling section
 - 2026-09-06: Update closures reference
+- 2020-12-02: Update documentation
