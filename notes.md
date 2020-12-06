@@ -80,3 +80,4 @@
 - 2020-11-16: Polish docs
 - 2020-11-26: Typo fix
 - 2020-01-10: Add note
+- 2020-12-06: Add note
