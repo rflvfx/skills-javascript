@@ -69,3 +69,4 @@
 - 2019-06-04: Update notes
 - 2019-09-24: Review content
 - 2020-09-17: Refine text
+- 2020-12-14: Add note
