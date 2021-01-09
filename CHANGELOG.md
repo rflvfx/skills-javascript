@@ -304,3 +304,4 @@
 - 2021-08-23: Add note
 - 2021-11-06: Add note
 - 2021-07-14: Polish docs
+- 2021-01-09: Improve docs
