@@ -311,3 +311,4 @@
 - 2021-02-15: Typo fix
 - 2021-12-25: Typo fix
 - 2021-03-14: Polish docs
+- 2021-02-02: Typo fix
