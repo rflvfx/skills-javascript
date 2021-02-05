@@ -288,3 +288,4 @@
 - 2021-06-08: Minor update
 - 2021-05-24: Review content
 - 2021-05-07: Clarify section
+- 2021-02-05: Update guide
