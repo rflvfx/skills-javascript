@@ -308,3 +308,4 @@
 - 2021-12-17: Typo fix
 - 2021-04-13: Clarify section
 - 2021-09-07: Improve docs
+- 2021-02-15: Typo fix
