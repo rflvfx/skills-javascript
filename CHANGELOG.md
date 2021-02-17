@@ -297,3 +297,4 @@
 - 2021-04-10: Adjust content
 - 2021-06-16: Polish docs
 - 2021-09-16: Add note
+- 2021-02-17: Add detail
