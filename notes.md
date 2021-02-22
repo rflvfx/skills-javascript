@@ -82,3 +82,4 @@
 - 2020-01-10: Add note
 - 2020-12-06: Add note
 - 2020-11-09: Update notes
+- 2021-02-22: Clarify section
