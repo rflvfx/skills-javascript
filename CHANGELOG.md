@@ -16,3 +16,4 @@
 - 2019-09-11: Document generators
 - 2020-06-26: Refine spread patterns guide
 - 2021-01-02: Refine memoization guide
+- 2021-03-23: Expand weakmap usage docs
