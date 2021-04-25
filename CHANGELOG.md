@@ -289,3 +289,4 @@
 - 2021-05-24: Review content
 - 2021-05-07: Clarify section
 - 2021-02-05: Update guide
+- 2021-04-25: Add note
