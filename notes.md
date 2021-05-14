@@ -85,3 +85,4 @@
 - 2021-02-22: Clarify section
 - 2021-03-24: Typo fix
 - 2021-07-04: Small fix
+- 2021-05-14: Polish docs
