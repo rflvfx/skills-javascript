@@ -276,3 +276,4 @@
 - 2021-08-27: Minor update
 - 2021-08-06: Clarify section
 - 2021-10-28: Small fix
+- 2021-05-16: Clarify section
