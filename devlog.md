@@ -2,3 +2,4 @@
 - 2017-10-25 — Improve documentation
 - 2018-04-23 — Refine exercises
 - 2020-09-14 — Improve documentation
+- 2021-05-28 — Add practice notes
