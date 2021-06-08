@@ -292,3 +292,4 @@
 - 2021-04-25: Add note
 - 2021-09-22: Add detail
 - 2021-03-18: Review content
+- 2021-06-08: Polish docs
