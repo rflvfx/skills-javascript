@@ -84,3 +84,4 @@
 - 2020-11-09: Update notes
 - 2021-02-22: Clarify section
 - 2021-03-24: Typo fix
+- 2021-07-04: Small fix
