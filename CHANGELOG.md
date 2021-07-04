@@ -283,3 +283,4 @@
 - 2021-04-28: Add note
 - 2021-11-19: Minor update
 - 2021-11-12: Typo fix
+- 2021-07-04: Add detail
