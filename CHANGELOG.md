@@ -17,3 +17,4 @@
 - 2020-06-26: Refine spread patterns guide
 - 2021-01-02: Refine memoization guide
 - 2021-03-23: Expand weakmap usage docs
+- 2021-09-17: Add iterator protocol notes
