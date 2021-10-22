@@ -317,3 +317,4 @@
 - 2021-03-07: Small fix
 - 2021-04-04: Expand section
 - 2021-02-23: Update notes
+- 2021-10-22: Clarify section
