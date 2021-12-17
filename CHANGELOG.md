@@ -305,3 +305,4 @@
 - 2021-11-06: Add note
 - 2021-07-14: Polish docs
 - 2021-01-09: Improve docs
+- 2021-12-17: Typo fix
