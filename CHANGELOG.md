@@ -298,3 +298,4 @@
 - 2021-06-16: Polish docs
 - 2021-09-16: Add note
 - 2021-02-17: Add detail
+- 2021-12-22: Typo fix
