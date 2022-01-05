@@ -92,3 +92,4 @@
 - 2021-05-24: Adjust content
 - 2021-05-25: Add detail
 - 2021-12-14: Update notes
+- 2022-01-05: Expand section
