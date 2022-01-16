@@ -332,3 +332,4 @@
 - 2022-09-19: Polish docs
 - 2022-05-12: Fix example
 - 2022-08-07: Clarify section
+- 2022-01-16: Add detail
