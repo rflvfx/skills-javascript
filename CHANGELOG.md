@@ -321,3 +321,4 @@
 - 2022-02-13: Adjust content
 - 2022-06-16: Polish docs
 - 2022-04-28: Refine text
+- 2022-02-23: Add note
