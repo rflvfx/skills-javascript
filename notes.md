@@ -94,3 +94,4 @@
 - 2021-12-14: Update notes
 - 2022-01-05: Expand section
 - 2022-03-08: Polish docs
+- 2022-05-03: Clarify section
