@@ -330,3 +330,4 @@
 - 2022-11-14: Expand section
 - 2022-04-26: Clarify section
 - 2022-09-19: Polish docs
+- 2022-05-12: Fix example
