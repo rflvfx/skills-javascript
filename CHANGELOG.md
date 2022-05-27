@@ -333,3 +333,4 @@
 - 2022-05-12: Fix example
 - 2022-08-07: Clarify section
 - 2022-01-16: Add detail
+- 2022-05-27: Review content
