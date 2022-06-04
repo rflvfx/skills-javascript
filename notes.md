@@ -103,3 +103,4 @@
 - 2022-04-02: Update notes
 - 2022-06-08: Small fix
 - 2022-01-13: Minor update
+- 2022-06-04: Minor update
