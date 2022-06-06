@@ -340,3 +340,4 @@
 - 2022-02-22: Update notes
 - 2022-08-12: Refine text
 - 2022-07-23: Polish docs
+- 2022-06-06: Minor update
