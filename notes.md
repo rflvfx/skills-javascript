@@ -101,3 +101,4 @@
 - 2022-10-15: Minor update
 - 2022-04-27: Typo fix
 - 2022-04-02: Update notes
+- 2022-06-08: Small fix
