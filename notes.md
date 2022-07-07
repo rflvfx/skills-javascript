@@ -109,3 +109,4 @@
 - 2022-04-06: Update guide
 - 2022-12-25: Adjust content
 - 2022-05-24: Add remark
+- 2022-07-07: Expand section
