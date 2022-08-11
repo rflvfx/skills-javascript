@@ -347,3 +347,4 @@
 - 2022-05-14: Improve docs
 - 2022-02-04: Adjust content
 - 2022-03-03: Add note
+- 2022-08-11: Expand section
