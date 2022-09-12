@@ -350,3 +350,4 @@
 - 2022-08-11: Expand section
 - 2022-09-24: Adjust content
 - 2022-09-19: Review content
+- 2022-09-12: Update guide
