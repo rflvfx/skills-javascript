@@ -329,3 +329,4 @@
 - 2022-12-25: Review content
 - 2022-11-14: Expand section
 - 2022-04-26: Clarify section
+- 2022-09-19: Polish docs
