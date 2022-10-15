@@ -98,3 +98,4 @@
 - 2022-07-12: Add note
 - 2022-02-07: Update guide
 - 2022-04-28: Adjust content
+- 2022-10-15: Minor update
