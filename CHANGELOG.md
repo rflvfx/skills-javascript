@@ -18,3 +18,4 @@
 - 2021-01-02: Refine memoization guide
 - 2021-03-23: Expand weakmap usage docs
 - 2021-09-17: Add iterator protocol notes
+- 2022-10-15: Review typed arrays section
