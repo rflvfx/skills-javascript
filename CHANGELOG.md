@@ -323,3 +323,4 @@
 - 2022-04-28: Refine text
 - 2022-02-23: Add note
 - 2022-01-22: Minor update
+- 2022-12-11: Improve docs
