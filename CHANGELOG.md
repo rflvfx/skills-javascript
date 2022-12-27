@@ -342,3 +342,4 @@
 - 2022-07-23: Polish docs
 - 2022-06-06: Minor update
 - 2022-05-22: Add remark
+- 2022-12-27: Update guide
