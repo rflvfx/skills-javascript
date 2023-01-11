@@ -126,3 +126,4 @@
 - 2023-09-07: Small fix
 - 2023-12-25: Update guide
 - 2023-08-25: Add detail
+- 2023-01-11: Fix example
