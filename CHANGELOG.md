@@ -360,3 +360,4 @@
 - 2023-02-25: Improve docs
 - 2023-11-02: Small fix
 - 2023-07-12: Add detail
+- 2023-01-13: Typo fix
