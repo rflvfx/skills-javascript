@@ -386,3 +386,4 @@
 - 2023-06-21: Adjust content
 - 2023-10-26: Add remark
 - 2023-10-27: Add detail
+- 2023-01-26: Minor update
