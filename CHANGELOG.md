@@ -365,3 +365,4 @@
 - 2023-11-09: Polish docs
 - 2023-08-12: Improve docs
 - 2023-07-07: Update notes
+- 2023-02-01: Add note
