@@ -377,3 +377,4 @@
 - 2023-07-18: Clarify section
 - 2023-03-17: Improve docs
 - 2023-07-01: Typo fix
+- 2023-04-07: Update guide
