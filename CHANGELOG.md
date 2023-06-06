@@ -20,3 +20,4 @@
 - 2021-09-17: Add iterator protocol notes
 - 2022-10-15: Review typed arrays section
 - 2022-11-21: Update closures reference
+- 2023-06-06: Review prototypes section
