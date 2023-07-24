@@ -379,3 +379,4 @@
 - 2023-07-01: Typo fix
 - 2023-04-07: Update guide
 - 2023-08-17: Clarify section
+- 2023-07-24: Improve docs
