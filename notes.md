@@ -121,3 +121,4 @@
 - 2023-05-10: Improve docs
 - 2023-02-02: Refine text
 - 2023-10-12: Add detail
+- 2023-07-28: Minor update
