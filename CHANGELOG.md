@@ -371,3 +371,4 @@
 - 2023-07-03: Add remark
 - 2023-10-06: Minor update
 - 2023-12-23: Expand section
+- 2023-09-23: Polish docs
