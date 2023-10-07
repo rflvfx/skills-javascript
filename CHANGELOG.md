@@ -353,3 +353,4 @@
 - 2022-09-12: Update guide
 - 2023-12-26: Small fix
 - 2023-08-28: Polish docs
+- 2023-10-07: Polish docs
