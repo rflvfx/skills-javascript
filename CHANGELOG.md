@@ -356,3 +356,4 @@
 - 2023-10-07: Polish docs
 - 2023-03-04: Update guide
 - 2023-04-19: Improve docs
+- 2023-10-08: Refine text
