@@ -120,3 +120,4 @@
 - 2023-02-26: Fix example
 - 2023-05-10: Improve docs
 - 2023-02-02: Refine text
+- 2023-10-12: Add detail
