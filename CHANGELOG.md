@@ -385,3 +385,4 @@
 - 2023-07-11: Small fix
 - 2023-06-21: Adjust content
 - 2023-10-26: Add remark
+- 2023-10-27: Add detail
