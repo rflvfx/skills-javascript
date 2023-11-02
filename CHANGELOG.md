@@ -358,3 +358,4 @@
 - 2023-04-19: Improve docs
 - 2023-10-08: Refine text
 - 2023-02-25: Improve docs
+- 2023-11-02: Small fix
