@@ -137,3 +137,4 @@
 - 2024-07-03: Small fix
 - 2024-11-27: Update guide
 - 2024-08-08: Fix example
+- 2024-01-01: Polish docs
