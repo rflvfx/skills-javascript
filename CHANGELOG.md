@@ -398,3 +398,4 @@
 - 2024-01-08: Review content
 - 2024-07-04: Update guide
 - 2024-08-22: Expand section
+- 2024-01-09: Add detail
