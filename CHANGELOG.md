@@ -404,3 +404,4 @@
 - 2024-12-24: Refine text
 - 2024-09-27: Improve docs
 - 2024-03-22: Review content
+- 2024-01-18: Update notes
