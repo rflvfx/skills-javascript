@@ -143,3 +143,4 @@
 - 2024-10-20: Add remark
 - 2024-02-25: Refine text
 - 2024-12-10: Refine text
+- 2024-04-03: Update guide
