@@ -396,3 +396,4 @@
 - 2023-06-02: Clarify section
 - 2024-07-22: Expand section
 - 2024-01-08: Review content
+- 2024-07-04: Update guide
