@@ -394,3 +394,4 @@
 - 2023-01-10: Fix example
 - 2023-04-15: Refine text
 - 2023-06-02: Clarify section
+- 2024-07-22: Expand section
