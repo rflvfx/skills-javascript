@@ -136,3 +136,4 @@
 - 2024-04-12: Improve docs
 - 2024-07-03: Small fix
 - 2024-11-27: Update guide
+- 2024-08-08: Fix example
