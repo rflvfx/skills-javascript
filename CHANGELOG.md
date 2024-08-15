@@ -410,3 +410,4 @@
 - 2024-06-08: Fix example
 - 2024-08-23: Typo fix
 - 2024-02-26: Refine text
+- 2024-08-15: Polish docs
