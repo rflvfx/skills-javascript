@@ -128,3 +128,4 @@
 - 2023-08-25: Add detail
 - 2023-01-11: Fix example
 - 2024-01-10: Typo fix
+- 2024-08-20: Update guide
