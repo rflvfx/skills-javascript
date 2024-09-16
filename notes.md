@@ -130,3 +130,4 @@
 - 2024-01-10: Typo fix
 - 2024-08-20: Update guide
 - 2024-10-01: Expand section
+- 2024-09-16: Clarify section
