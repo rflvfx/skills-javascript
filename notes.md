@@ -139,3 +139,4 @@
 - 2024-08-08: Fix example
 - 2024-01-01: Polish docs
 - 2024-06-04: Adjust content
+- 2024-09-27: Minor update
