@@ -431,3 +431,4 @@
 - 2024-04-19: Minor update
 - 2024-04-10: Polish docs
 - 2024-01-21: Refine text
+- 2024-10-20: Add detail
