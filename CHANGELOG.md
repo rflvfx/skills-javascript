@@ -412,3 +412,4 @@
 - 2024-02-26: Refine text
 - 2024-08-15: Polish docs
 - 2024-06-24: Review content
+- 2024-10-22: Add detail
