@@ -132,3 +132,4 @@
 - 2024-10-01: Expand section
 - 2024-09-16: Clarify section
 - 2024-11-22: Clarify section
+- 2024-11-03: Add remark
