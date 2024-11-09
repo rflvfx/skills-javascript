@@ -421,3 +421,4 @@
 - 2024-06-17: Fix example
 - 2024-10-15: Add remark
 - 2024-04-02: Update notes
+- 2024-11-09: Add detail
