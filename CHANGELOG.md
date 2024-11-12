@@ -23,3 +23,4 @@
 - 2023-06-06: Review prototypes section
 - 2023-09-13: Refine promise chaining guide
 - 2024-08-01: Refine spread patterns guide
+- 2024-11-12: Review currying section
