@@ -422,3 +422,4 @@
 - 2024-10-15: Add remark
 - 2024-04-02: Update notes
 - 2024-11-09: Add detail
+- 2024-11-16: Adjust content
