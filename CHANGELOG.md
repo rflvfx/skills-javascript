@@ -423,3 +423,4 @@
 - 2024-04-02: Update notes
 - 2024-11-09: Add detail
 - 2024-11-16: Adjust content
+- 2024-12-06: Review content
