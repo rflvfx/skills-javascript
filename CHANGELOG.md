@@ -401,3 +401,4 @@
 - 2024-01-09: Add detail
 - 2024-04-18: Update guide
 - 2024-10-23: Update guide
+- 2024-12-24: Refine text
