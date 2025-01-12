@@ -462,3 +462,4 @@
 - 2025-03-23: Add detail
 - 2025-04-20: Improve docs
 - 2025-07-15: Review content
+- 2025-01-12: Add detail
