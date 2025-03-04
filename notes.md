@@ -156,3 +156,4 @@
 - 2025-09-02: Small fix
 - 2025-05-01: Small fix
 - 2025-02-28: Improve docs
+- 2025-03-04: Typo fix
