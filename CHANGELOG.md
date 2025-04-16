@@ -451,3 +451,4 @@
 - 2025-07-16: Refine text
 - 2025-04-05: Add remark
 - 2025-04-19: Clarify section
+- 2025-04-16: Polish docs
