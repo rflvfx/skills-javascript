@@ -146,3 +146,4 @@
 - 2024-04-03: Update guide
 - 2025-01-14: Expand section
 - 2025-04-27: Refine text
+- 2025-04-25: Add note
