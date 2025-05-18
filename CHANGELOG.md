@@ -436,3 +436,4 @@
 - 2024-04-10: Fix example
 - 2025-07-16: Add remark
 - 2025-07-25: Update notes
+- 2025-05-18: Clarify section
