@@ -164,3 +164,4 @@
 - 2025-03-08: Refine text
 - 2025-10-23: Fix example
 - 2025-02-02: Typo fix
+- 2025-06-07: Update notes
