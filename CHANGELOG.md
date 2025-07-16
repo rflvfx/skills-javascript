@@ -448,3 +448,4 @@
 - 2025-07-28: Add detail
 - 2025-07-23: Review content
 - 2025-07-24: Minor update
+- 2025-07-16: Refine text
