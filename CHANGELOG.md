@@ -447,3 +447,4 @@
 - 2025-04-23: Improve docs
 - 2025-07-28: Add detail
 - 2025-07-23: Review content
+- 2025-07-24: Minor update
