@@ -151,3 +151,4 @@
 - 2025-10-24: Fix example
 - 2025-12-09: Typo fix
 - 2025-03-13: Polish docs
+- 2025-10-08: Small fix
