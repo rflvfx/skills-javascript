@@ -440,3 +440,4 @@
 - 2025-11-10: Adjust content
 - 2025-01-22: Small fix
 - 2025-11-05: Update guide
+- 2025-11-04: Typo fix
