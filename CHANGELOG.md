@@ -25,3 +25,4 @@
 - 2024-08-01: Refine spread patterns guide
 - 2024-11-12: Review currying section
 - 2025-08-08: Expand weakmap usage docs
+- 2025-11-15: Improve iterator protocol coverage
