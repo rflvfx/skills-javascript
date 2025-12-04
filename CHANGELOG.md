@@ -467,3 +467,4 @@
 - 2025-10-10: Add remark
 - 2025-05-14: Update notes
 - 2025-02-10: Small fix
+- 2025-12-04: Adjust content
