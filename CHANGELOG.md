@@ -505,3 +505,4 @@
 - 2026-05-25: Review content
 - 2026-08-24: Fix example
 - 2026-02-16: Expand section
+- 2026-01-08: Expand section
