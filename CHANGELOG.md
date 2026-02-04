@@ -482,3 +482,4 @@
 - 2026-11-26: Refine text
 - 2026-12-12: Small fix
 - 2026-02-03: Small fix
+- 2026-02-04: Add note
