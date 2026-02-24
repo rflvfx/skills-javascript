@@ -26,3 +26,4 @@
 - 2024-11-12: Review currying section
 - 2025-08-08: Expand weakmap usage docs
 - 2025-11-15: Improve iterator protocol coverage
+- 2026-02-24: Add module patterns examples
