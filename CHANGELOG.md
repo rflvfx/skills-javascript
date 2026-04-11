@@ -500,3 +500,4 @@
 - 2026-03-10: Expand section
 - 2026-04-03: Add detail
 - 2026-10-23: Typo fix
+- 2026-04-11: Improve docs
