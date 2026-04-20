@@ -478,3 +478,4 @@
 - 2026-06-17: Improve docs
 - 2026-02-07: Refine text
 - 2026-07-22: Clarify section
+- 2026-04-20: Add note
