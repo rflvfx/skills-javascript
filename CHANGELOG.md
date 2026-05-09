@@ -484,3 +484,4 @@
 - 2026-02-03: Small fix
 - 2026-02-04: Add note
 - 2026-05-23: Review content
+- 2026-05-09: Improve docs
