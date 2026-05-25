@@ -502,3 +502,4 @@
 - 2026-10-23: Typo fix
 - 2026-04-11: Improve docs
 - 2026-11-26: Add detail
+- 2026-05-25: Review content
