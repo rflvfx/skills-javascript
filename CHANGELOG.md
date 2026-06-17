@@ -475,3 +475,4 @@
 - 2026-01-23: Expand section
 - 2026-02-09: Adjust content
 - 2026-12-25: Fix example
+- 2026-06-17: Improve docs
