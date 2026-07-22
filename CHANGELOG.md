@@ -477,3 +477,4 @@
 - 2026-12-25: Fix example
 - 2026-06-17: Improve docs
 - 2026-02-07: Refine text
+- 2026-07-22: Clarify section
