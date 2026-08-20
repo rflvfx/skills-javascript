@@ -508,3 +508,4 @@
 - 2026-01-08: Expand section
 - 2026-03-22: Add remark
 - 2026-09-01: Review content
+- 2026-08-20: Improve docs
