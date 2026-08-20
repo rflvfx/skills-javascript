@@ -168,3 +168,4 @@
 - 2026-03-10: Small fix
 - 2026-06-16: Typo fix
 - 2026-08-28: Refine text
+- 2026-08-20: Update notes
