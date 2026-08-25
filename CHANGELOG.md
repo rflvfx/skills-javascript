@@ -486,3 +486,4 @@
 - 2026-05-23: Review content
 - 2026-05-09: Improve docs
 - 2026-03-27: Update guide
+- 2026-08-25: Typo fix
