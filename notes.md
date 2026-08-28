@@ -167,3 +167,4 @@
 - 2025-06-07: Update notes
 - 2026-03-10: Small fix
 - 2026-06-16: Typo fix
+- 2026-08-28: Refine text
