@@ -507,3 +507,4 @@
 - 2026-02-16: Expand section
 - 2026-01-08: Expand section
 - 2026-03-22: Add remark
+- 2026-09-01: Review content
