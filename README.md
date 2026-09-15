@@ -1,20 +1,10 @@
 # skills-javascript
 
-Habilidade: **JavaScript**
+Projeto Node puro com funcoes utilitarias e testes basicos.
 
-## Anos de experiencia
+## Como rodar
 
-_Atualize este campo com o tempo de experiencia real._
-
-## Sobre
-
-Repositorio de referencia para a habilidade **JavaScript**.
-Inclui um exemplo minimo e anotacoes para consulta rapida.
-
-## Exemplo
-
-Veja o arquivo `exemplo` na raiz do repositorio.
-
-## Links uteis
-
-- [Documentacao oficial](https://www.google.com/search?q=JavaScript+documentacao)
+```bash
+npm start
+npm test
+```
