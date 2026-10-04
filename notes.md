@@ -176,3 +176,4 @@
 - 2026-02-26: Improve docs
 - 2026-11-13: Refine text
 - 2026-03-25: Clarify section
+- 2026-10-04: Add note
